@@ -1,8 +1,3 @@
-"""
-**************
-Tip Calculator
-**************
-"""
 
 print("Welcome to tip calculator!")
 
